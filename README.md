@@ -1,2 +1,2 @@
-# Portif-lio
+# Portifolio
 Projeto de portifólio do desenvolvedor
