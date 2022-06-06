@@ -23,17 +23,18 @@ html{
     width: 2rem;
     height: 2rem;
     position: fixed;
-    z-index: 100;
     right: 3rem;
     top: 3rem;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     cursor: pointer;
+    z-index: 200;
 }
 
 .show-menu .hamburguer {
     right: 15rem;
+    
 }
 
 .line {
