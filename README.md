@@ -1,9 +1,10 @@
 # Portifolio
-Projeto de portifólio do desenvolvedor
+Em desenvolvimento...
 
 ## Tarefas
 
-O controle das tarefas desse projeto será realizado no GitHub
+O controle das tarefas desse projeto será realizado no GitHub.
+
 
 ## Ícones
 
